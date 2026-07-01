@@ -2,7 +2,7 @@
 
 Bu repo Computer Vision-u 0-dan öyrənmək üçün gündəlik praktik dərslərdən ibarətdir.
 
-## Day 03 — NumPy Image Array Analysis
+NumPy Image Array Analysis
 
 Bu dərsdə şəkilin NumPy array kimi necə analiz olunduğunu öyrəndim.
 
