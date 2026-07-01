@@ -1,2 +1,24 @@
-# opencv-numpy-image-analysis
-Computer Vision Day 03 practice: analyzing images as NumPy arrays with OpenCV, including shape, dtype, pixel values, channels, cropping, and histogram.
+# Computer Vision Roadmap
+
+Bu repo Computer Vision-u 0-dan öyrənmək üçün gündəlik praktik dərslərdən ibarətdir.
+
+## Day 03 — NumPy Image Array Analysis
+
+Bu dərsdə şəkilin NumPy array kimi necə analiz olunduğunu öyrəndim.
+
+### Öyrəndiklərim
+
+- Şəkilin `numpy.ndarray` olduğunu
+- `img.shape` nəticəsinin `height, width, channels` formasında gəldiyini
+- `img.dtype` anlayışını
+- Pixel dəyərinin `img[y, x]` ilə götürüldüyünü
+- BGR kanallarının ayrıca analizini
+- Slicing ilə crop etməyi
+- Histogram çıxarmağı
+
+### Fayl strukturu
+
+```text
+lessons/day03_numpy_image_analysis.py
+data/raw/sample.jpg
+outputs/day03/
